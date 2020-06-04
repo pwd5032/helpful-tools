@@ -1,0 +1,11 @@
+# Ignore any documents
+*.pdf
+*.ppt
+*.pptx
+
+# Caching files
+*.pyc
+__pycache__
+
+# Ignore vscode settings
+.vscode
